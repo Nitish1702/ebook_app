@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "image": "img/img_0.png",
+      "rating": "4.7",
+      "Author": "J.K Rowling",
+      "genre": "Magic"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "image": "img/img_1.png",
+      "rating": "4.3",
+      "Author": "J.K Rowling",
+      "genre": "Magic"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "image": "img/img_2.png",
+      "rating": "4.5",
+      "Author": "J.K Rowling",
+      "genre": "Magic"
+    },
+    {
+      "title": " Harry Potter and the Prisoner of Azkaban",
+      "image": "img/img_3.png",
+      "rating": "4.6",
+      "Author": "J.K Rowling",
+      "genre": "Magic"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "image": "img/img_4.png",
+      "rating":" 4.8",
+      "Author": "J.K Rowling",
+      "genre": "Magic"
+
+    }
+  ]
